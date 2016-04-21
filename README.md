@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+
+XmenCoin - ITC
+
+XmenCoin is a pure PoS coin which generates coins through PoS blocks. Except the first block where it generates the initial 70000000 coins, no PoW mining will get any coins.  Completely free based on the subscriptions in facebook, cryptocointalk and ecoiner website. 
+
+Equal distribution to the WHOLE community. Each person gets 1 mil coins, including each person in the dev team. Dev team gets absolutely no more than anyone else! It is the community coin! While the dev team will maintain and enhance the code and fix any issues, it is the community which will promote and market the coin.  
+
+XmenCoin also adopts a variable PoS rate with the following annual interest rate:
+Year-1: 30%
+Year-2: 20%
+Year-3: 10%
+Year-4: 5%
+Year-5: 2%
+Starting from Year-6: 1% annual interest for maintnance. 
+
+- 60 sec block time
+- diff retarget each block
+- 3 transaction confirmations
+- 50 minted block confirmations
+- PoS block generation after 1 day of holding
+
+100% Premine.
+
+Ports:
+connection:	42158
+RPC:			42157
+
+
